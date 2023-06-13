@@ -1,0 +1,8 @@
+go 1.19
+
+use (
+	./api-gateway
+	./cart-microservice
+	./manga-microservice
+	./payment-microservice
+)
